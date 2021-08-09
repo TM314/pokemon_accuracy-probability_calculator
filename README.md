@@ -5,8 +5,8 @@ This is a calculator for determining how likely certain events are in Pokemon si
 ## Installation
 
 This script requires two packages:
-- PySimpleGUI
-- Pokepy
+- [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+- [Pokepy](https://github.com/PokeAPI/pokepy)
 
 To install these:
 
