@@ -30,5 +30,7 @@ This will open a window where you'll enter the relevant information for the calc
 
 Feel free to use the code for your own recreational use when tilting over battles or coming up with hax sets. 
 
+If you find any issues (there probably are, this was made pretty quickly) then please raise an issue here.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
